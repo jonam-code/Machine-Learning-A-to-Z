@@ -24,7 +24,6 @@
 	* Decision Tree Classifiers
 	* Random Forest Classifiers
 	
-	
 4. **Clustering**
 	* K-Means Clustering
 	* Hierarchical Clustering
