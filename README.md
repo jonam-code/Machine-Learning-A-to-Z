@@ -1,6 +1,5 @@
 # Machine-Learning-A-to-Z
 
-
 ### Contains the code and implementation of the following topics and techniques:
 
 1. **Data Preprocessing**
