@@ -32,7 +32,6 @@
 5. **Association Rule Learning**
 	* Apriori
 
-	
 6. **Deep Learning**
 	* Artifial Neural Networks (ANN)
 	* Convolutional Neural Networks (CNN)
