@@ -16,7 +16,6 @@
 	* Decision Tree Regression
 	* Random Forest Regression
 	
-
 3. **Classification**
 	* Logistic Regression
 	* K-Nearest Neighbors (K-NN)
